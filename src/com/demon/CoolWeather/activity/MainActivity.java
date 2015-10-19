@@ -1,4 +1,7 @@
-package com.demon.CoolWeather;
+package com.demon.CoolWeather.activity;
+
+import com.demon.CoolWeather.R;
+import com.demon.CoolWeather.R.layout;
 
 import android.app.Activity;
 import android.content.Intent;
